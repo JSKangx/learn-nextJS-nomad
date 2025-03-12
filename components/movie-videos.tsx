@@ -1,4 +1,4 @@
-import { API_URL } from "../app/(home)/page";
+import { API_URL } from "../app/constants";
 import styles from "../style/movie-videos.module.css";
 
 // 무비 비디오를 가져오는 함수
